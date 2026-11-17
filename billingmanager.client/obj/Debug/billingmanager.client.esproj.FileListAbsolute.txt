@@ -1,0 +1,1 @@
+C:\Users\enkig\source\repos\BillingManager\billingmanager.client\obj\Debug\billingmanager.client.esproj.CoreCompileInputs.cache

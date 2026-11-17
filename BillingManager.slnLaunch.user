@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nouveau profil",
+    "Projects": [
+      {
+        "Path": "billingmanager.client\\billingmanager.client.esproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "BillingManager.Server\\BillingManager.Server.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

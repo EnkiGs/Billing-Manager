@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="billingmanager.client/billingmanager.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="BillingManager.Server/BillingManager.Server.csproj" />
+</Solution>
